@@ -1,0 +1,6 @@
+24Y-09-17 15:25:59:2559 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+24Y-09-17 15:31:15:3115 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+24Y-09-19 11:27:41:2741 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "6e9bdeed1727458614bba3a" (type string) at path "_id" for model "Movie"[39m
+24Y-09-19 11:32:11:3211 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "6e9bdeed1727458614bba33" (type string) at path "_id" for model "Movie"[39m
+24Y-09-19 11:34:08:348 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "6e9bdeed1727458614bba33" (type string) at path "_id" for model "Movie"[39m
+24Y-09-19 11:34:10:3410 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "6e9bdeed1727458614bba33" (type string) at path "_id" for model "Movie"[39m
